@@ -5,8 +5,8 @@ title: Michael Martin's CV
 
 ![Michael](./media/profilePic.jpg){:.avatar}
 
-Michael Martin
-Computer Science Student and Technology Aficionado
+Michael Martin<br />
+SoftStack Factory Student and Technology Aficionado
 
 <div id="webaddress">
 <a href="mailto:">mmartinssf@softstackfactory.org</a>
@@ -19,7 +19,9 @@ Computer Science Student and Technology Aficionado
 
 ## Currently
 
-Currently attending SoftStack Factory which is a 12-week long immersion bootcamp that focuses on mobile app development, using a hybrid approach that delivers native apps and backend services using an MBaaS.
+Currently attending SoftStack Factory, which is a 12-week long immersion bootcamp that focuses on mobile app development using a hybrid approach that delivers native apps and backend services using an MBaaS.
+With a focus on Javascript as our primary programing language, html5 and CSS, we learn AngualarJS an MVC framework and the Ionic mobile framework to create hybrid mobile application.  We also forcus on how to 
+scaffold and adapt an mBaaS (mobile Backend as a Service), which is based on nodeJS, express, Strongloop and mongoDB to support the client application.  
 
 ## Education
 
