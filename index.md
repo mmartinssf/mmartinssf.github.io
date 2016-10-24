@@ -6,7 +6,7 @@ title: Michael Martin's CV
 ![Michael](./media/profilePic.jpg){:.avatar}
 
 Michael Martin
-Computer Science Student and Technology aficionado
+Computer Science Student and Technology Aficionado
 
 <div id="webaddress">
 <a href="mailto:">mmartinssf@softstackfactory.org</a>
