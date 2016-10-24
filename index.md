@@ -23,7 +23,7 @@ Currently attending SoftStack Factory which is a 12-week long immersion bootcamp
 
 ## Education
 
-Real Estate License School, Portland Community College, Portland, Oregon<br />
+Real Estate School, Portland Community College, Portland, Oregon<br />
 Associate of Engineering, Southwestern College, Chula Vista, California – Currently Enrolled 
 
 ## Technical skills
@@ -42,9 +42,7 @@ Click <a href="https://github.com/mmartinssf/mmartinssf.github.io">HERE</a>to vi
 
 ## Achievements
 
-Achievement 1
-
-Achievement 2
+Google Adwords Certified
 
 ## Experience
 
