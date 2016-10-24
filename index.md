@@ -19,23 +19,26 @@ Computer Science Student and Technology aficionado
 
 ## Currently
 
-I'm a final-year computer science student at the University Computers, due to finish around September 2016. During my bachelor's degree I've taken up an interest in mobile technologies and artificial intelligence.
+Currently attending SoftStack Factory which is a 12-week long immersion bootcamp that focuses on mobile app development, using a hybrid approach that delivers native apps and backend services using an MBaaS.
 
 ## Education
 
-`2012-15`
-__University of Computers__ Bachelor's degree in Computer Science
+Real Estate License School, Portland Community College, Portland, Oregon<br />
+Associate of Engineering, Southwestern College, Chula Vista, California – Currently Enrolled 
 
 ## Technical skills
 
 * HTML and CSS
 * Javascript
+* AngualarJS 
+* Ionic 
+* Adobe Photoshop 
+* Adobe Dreamweaver 
+* Arduino
+* Microsoft Office
 
 ## Projects
-
-### CV
-
-I created a this web page to show off my CV.  
+Click <a href="https://github.com/mmartinssf/mmartinssf.github.io">HERE</a>to view recent projects.<br />
 
 ## Achievements
 
@@ -45,9 +48,17 @@ Achievement 2
 
 ## Experience
 
-`2010-11`
-__Roasted Bean Coffe House__ 
- Worked for two summers on the Roasted Bean Coffe House as a barista.
+`2012-16`
+__Manchester Grand Hyatt__ 
+ Front Office Ambassador
+ 
+ `2010-11`
+__Travel Time Vacations LLC__ 
+ Managing Partner
+ 
+ `2005-09`
+__Fry's Electronics__ 
+ Computer Department Supervisor 1
 
 ## Hobbies
 
