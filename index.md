@@ -6,7 +6,7 @@ title: Michael Martin's CV
 ![Michael](./media/profilePic.jpg){:.avatar}
 
 Michael Martin<br />
-Full Stack Javascript and Hybrid Mobile App Developer
+Full Stack JavaScript and Hybrid Mobile App Developer
 
 <div id="webaddress">
 <a href="mailto:">mmartinssf@softstackfactory.org</a>
@@ -19,8 +19,8 @@ Full Stack Javascript and Hybrid Mobile App Developer
 
 ## Currently
 
-Currently attending SoftStack Factory, which is a 12-week long immersion bootcamp that focuses on mobile app development using a hybrid approach that delivers native apps and backend services using an MBaaS.
-With a focus on Javascript as our primary programing language, html5 and CSS, we learn AngualarJS an MVC framework and the Ionic mobile framework to create hybrid mobile application.  We also forcus on how to 
+Currently attending SoftStack Factory, which is a 12-week long immersion Bootcamp that focuses on mobile app development using a hybrid approach that delivers native apps and backend services using an MBaaS.
+With a focus on JavaScript as our primary programing language, html5 and CSS, we learn AngularJS an MVC framework and the Ionic mobile framework to create hybrid mobile application.  We also forcus on how to 
 scaffold and adapt an mBaaS (mobile Backend as a Service), which is based on nodeJS, express, Strongloop and mongoDB to support the client application.  
 
 ## Education
@@ -31,20 +31,14 @@ Associate of Engineering, Southwestern College, Chula Vista, California – Curr
 ## Technical skills
 
 * HTML and CSS
-* Javascript
-* AngualarJS 
+* JavaScript
+* AngularJS 
 * Ionic 
 * Adobe Photoshop 
 * Adobe Dreamweaver 
+* Google AdWords Certified
 * Arduino
 * Microsoft Office
-
-## Projects
-Click <a href="https://github.com/mmartinssf/mmartinssf.github.io">HERE</a>to view recent projects.<br />
-
-## Achievements
-
-Google Adwords Certified
 
 ## Experience
 
