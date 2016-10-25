@@ -6,7 +6,7 @@ title: Michael Martin's CV
 ![Michael](./media/profilePic.jpg){:.avatar}
 
 Michael Martin<br />
-SoftStack Factory Student and Technology Aficionado
+Full Stack Javascript and Hybrid Mobile App Developer
 
 <div id="webaddress">
 <a href="mailto:">mmartinssf@softstackfactory.org</a>
