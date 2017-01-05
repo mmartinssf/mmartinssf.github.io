@@ -39,7 +39,7 @@ Associate of Engineering, Southwestern College, Chula Vista, California – Curr
 * Google Adwords Certified
 * Adobe Photoshop 
 * Adobe Dreamweaver 
-* Arduino | Prototyping
+* Arduino and Prototyping
 * Microsoft Office Suite
 
 
