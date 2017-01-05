@@ -6,12 +6,12 @@ title: Michael Martin's CV
 ![Michael](./media/profilePic.jpg){:.avatar}
 
 Michael Martin<br />
-Full Stack Javascript and Hybrid Mobile App Developer
+MEAN Stack and Hybrid Mobile App Developer
 
 <div id="webaddress">
 <a href="mailto:">mmartinssf@softstackfactory.org</a>
 |
-<i class="fa fa-github"></i> <a href="https://github.com/mmartinssf/mmartinssf.github.io">my account</a>
+<i class="fa fa-github"></i> <a href="https://github.com/mmartinssf">My Git</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/">mytwitteraccount</a>
 </div>
@@ -32,13 +32,15 @@ Associate of Engineering, Southwestern College, Chula Vista, California – Curr
 
 * HTML and CSS
 * Javascript
-* AngualarJS 
-* Ionic 
+* Angualar 2 
+* Ionic 2
+* C# | C++
+* PHP | MySQL
 * Google Adwords Certified
 * Adobe Photoshop 
 * Adobe Dreamweaver 
-* Arduino
-* Microsoft Office
+* Arduino | Prototyping
+* Microsoft Office Suite
 
 
 ## Experience
