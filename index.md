@@ -34,8 +34,8 @@ Associate of Engineering, Southwestern College, Chula Vista, California – Curr
 * Javascript
 * Angualar 2 
 * Ionic 2
-* C# | C++
-* PHP | MySQL
+* C# and C++
+* PHP and MySQL
 * Google Adwords Certified
 * Adobe Photoshop 
 * Adobe Dreamweaver 
