@@ -25,7 +25,7 @@ scaffold and adapt an mBaaS (mobile Backend as a Service), which is based on nod
 
 ## Education
 
-Real Estate School, Portland Community College, Portland, Oregon<br />
+Real Estate, Portland Community College, Portland, Oregon<br />
 Associate of Engineering, Southwestern College, Chula Vista, California – Currently Enrolled 
 
 ## Technical skills
